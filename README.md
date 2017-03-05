@@ -7,6 +7,18 @@
 
 HTML Imports provider for <a href="https://www.npmjs.com/package/module-structure">module-structure</a>. 
 
+## Installation
+
+This  extension is optional and not bundled with module-structure, therefore requires separate installation. Local and global installation is supported.
+
+After installation of this extension, it is automatically detected by module-structure and will then provide support for HTML Imports, too.
+ 
+Example:
+
+<pre><code>$ npm i -g module-structure
+$ npm i -g module-structure-lang-html
+</code></pre>
+
 ## Credits
 
 <table align="center">
