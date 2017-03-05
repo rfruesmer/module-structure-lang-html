@@ -2,7 +2,7 @@
 .nyc_output/
 coverage/
 node_modules/
-src/
+test/
 .editorconfig
 .npmignore
 .travis.yml
