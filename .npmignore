@@ -1,0 +1,10 @@
+.idea/
+.nyc_output/
+coverage/
+node_modules/
+src/
+.editorconfig
+.npmignore
+.travis.yml
+module-structure-lang-html.iml
+npm-debug.log
