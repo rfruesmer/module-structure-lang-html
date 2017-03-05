@@ -1,6 +1,6 @@
 {
   "name": "module-structure-lang-html",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "HTML Imports provider for module-structure.",
   "author": "Reinhold Früsmer",
   "license": "MIT",
