@@ -7,6 +7,8 @@
 
 HTML Imports provider for <a href="https://www.npmjs.com/package/module-structure">module-structure</a>. 
 
+See <a href="https://www.npmjs.com/package/module-structure">module-structure</a> for full documentation.
+
 ## Installation
 
 This  extension is optional and not bundled with module-structure, therefore requires separate installation. Local and global installation is supported.
