@@ -11,7 +11,8 @@ HTML Imports provider for <a href="https://www.npmjs.com/package/module-structur
 
 This  extension is optional and not bundled with module-structure, therefore requires separate installation. Local and global installation is supported.
 
-After installation of this extension, it is automatically detected by module-structure and will then provide support for HTML Imports, too.
+After installation of this extension, it is automatically detected by module-structure and used for analyzing HTML Import dependencies, 
+e. g. for Polymer-based projects.
  
 Example:
 
