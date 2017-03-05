@@ -1,6 +1,6 @@
 {
   "name": "module-structure-lang-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HTML Imports provider for module-structure.",
   "author": "Reinhold Früsmer",
   "license": "MIT",
@@ -9,8 +9,8 @@
   },
   "homepage": "https://github.com/rfruesmer/module-structure#readme",
   "scripts": {
-      "posttest": "nyc report --reporter=json && codecov -f coverage/*.json",
-      "test": "nyc mocha test/**/*.js"
+    "posttest": "nyc report --reporter=json && codecov -f coverage/*.json",
+    "test": "nyc mocha test/**/*.js"
   },
   "extensions": {
     "module-structure:language": {
