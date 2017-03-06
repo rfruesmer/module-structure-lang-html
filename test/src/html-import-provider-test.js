@@ -54,12 +54,12 @@ describe("html-import-provider", function() {
 
     it("parses stuff-b.html imports", function() {
         givenRootPath();
-        givenStuffAHtml();
+        givenStuffBHtml();
         whenGettingDependencies();
         thenDependenciesShouldMatchExpectedDependencies();
     });
 
-    function givenStuffAHtml() {
+    function givenStuffBHtml() {
         htmlFile = path.join(rootPath, "package-b", "stuff-b.html");
         expectedDependencies = []
     }
