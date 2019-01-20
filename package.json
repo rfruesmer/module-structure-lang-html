@@ -23,7 +23,7 @@
     "codecov": "^3.1.0",
     "mocha": "^5.2.0",
     "nyc": "^13.1.0",
-    "rimraf": "^2.6.1"
+    "rimraf": "^2.6.3"
   },
   "dependencies": {
     "dom5": "^3.0.1",
